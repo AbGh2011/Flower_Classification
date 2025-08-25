@@ -11,6 +11,7 @@ Key features include:
 - Data Augmentation: Enhances model generalization with rotations and flips.
 - Evaluation: Tracks accuracy, recall, and precision metrics.
 - Visualization: Displays predictions with class labels on test images.
+- Class Weight: Using Class Weight to solve class imbalance problem.
 
 This project was a comprehensive learning journey in building, training, and optimizing a CNN model from scratch.
 
